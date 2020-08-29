@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #5b00ae;
+    text-decoration: none;
+}
+
+div {
+    background-color: #96f7e5;
+    padding: 20px;
+    width: 200px;
+    height: auto;
+    margin: 50px auto;
+}
+
+button {
+    border-radius: 12px;
+    background-color: #f5d1d1;
+    margin: 15px 10px;
+}

@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    margin: 50px auto;
+    text-align: center;
+}
+
+table {
+    background-color: #aaa;
+    line-height: 25px;
+}
+
+th {
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: #fff;
+}
+
+td {
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: #fff;
+    text-align: center
+}
